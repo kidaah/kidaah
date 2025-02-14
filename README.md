@@ -2,7 +2,7 @@
 - 👀 I’m interested in java and python
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on programming appps and games
-- 📫 How to reach me ... kidaaah
+- 📫 How to reach me ... kidaah
 
 <!---
 kidaah/kidaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
